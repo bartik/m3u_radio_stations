@@ -1,319 +1,319 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="9997" tvg-name="Sro 1 Rádio Slovensko" tvg-logo="SK_Sro_1_Radio_Slovensko.png" tvg-country="SK" group-title="radio" radio="true", Sro 1 Rádio Slovensko
+#EXTINF:-1 tvg-id="9997" tvg-name="Sro 1 Rádio Slovensko" tvg-logo="SK_Sro_1_Radio_Slovensko.png" tvg-country="SK" group-title="radio" radio="true", Sro 1 Rádio Slovensko mp3 32
 https://live.slovakradio.sk:8000/Slovensko_32.mp3
-#EXTINF:-1 tvg-id="9997" tvg-name="Sro 1 Rádio Slovensko" tvg-logo="SK_Sro_1_Radio_Slovensko.png" tvg-country="SK" group-title="radio" radio="true", Sro 1 Rádio Slovensko
+#EXTINF:-1 tvg-id="9997" tvg-name="Sro 1 Rádio Slovensko" tvg-logo="SK_Sro_1_Radio_Slovensko.png" tvg-country="SK" group-title="radio" radio="true", Sro 1 Rádio Slovensko mp3 128
 https://icecast.stv.livebox.sk/slovensko_128.mp3
-#EXTINF:-1 tvg-id="9997" tvg-name="Sro 1 Rádio Slovensko" tvg-logo="SK_Sro_1_Radio_Slovensko.png" tvg-country="SK" group-title="radio" radio="true", Sro 1 Rádio Slovensko
+#EXTINF:-1 tvg-id="9997" tvg-name="Sro 1 Rádio Slovensko" tvg-logo="SK_Sro_1_Radio_Slovensko.png" tvg-country="SK" group-title="radio" radio="true", Sro 1 Rádio Slovensko mp3 128
 https://live.slovakradio.sk:8000/Slovensko_128.mp3
-#EXTINF:-1 tvg-id="9997" tvg-name="Sro 1 Rádio Slovensko" tvg-logo="SK_Sro_1_Radio_Slovensko.png" tvg-country="SK" group-title="radio" radio="true", Sro 1 Rádio Slovensko
+#EXTINF:-1 tvg-id="9997" tvg-name="Sro 1 Rádio Slovensko" tvg-logo="SK_Sro_1_Radio_Slovensko.png" tvg-country="SK" group-title="radio" radio="true", Sro 1 Rádio Slovensko mp3 256
 https://live.slovakradio.sk:8000/Slovensko_256.mp3
-#EXTINF:-1 tvg-id="517405" tvg-name="Rádio Devín (Sro 3)" tvg-logo="SK_Radio_Devin_Sro_3.png" tvg-country="SK" group-title="radio" radio="true", Rádio Devín (Sro 3)
+#EXTINF:-1 tvg-id="517405" tvg-name="Rádio Devín (Sro 3)" tvg-logo="SK_Radio_Devin_Sro_3.png" tvg-country="SK" group-title="radio" radio="true", Rádio Devín (Sro 3) mp3 32
 https://live.slovakradio.sk:8000/Devin_32.mp3
-#EXTINF:-1 tvg-id="517405" tvg-name="Rádio Devín (Sro 3)" tvg-logo="SK_Radio_Devin_Sro_3.png" tvg-country="SK" group-title="radio" radio="true", Rádio Devín (Sro 3)
+#EXTINF:-1 tvg-id="517405" tvg-name="Rádio Devín (Sro 3)" tvg-logo="SK_Radio_Devin_Sro_3.png" tvg-country="SK" group-title="radio" radio="true", Rádio Devín (Sro 3) mp3 128
 https://icecast.stv.livebox.sk/devin_128.mp3
-#EXTINF:-1 tvg-id="517405" tvg-name="Rádio Devín (Sro 3)" tvg-logo="SK_Radio_Devin_Sro_3.png" tvg-country="SK" group-title="radio" radio="true", Rádio Devín (Sro 3)
+#EXTINF:-1 tvg-id="517405" tvg-name="Rádio Devín (Sro 3)" tvg-logo="SK_Radio_Devin_Sro_3.png" tvg-country="SK" group-title="radio" radio="true", Rádio Devín (Sro 3) mp3 128
 https://live.slovakradio.sk:8000/Devin_128.mp3
-#EXTINF:-1 tvg-id="517405" tvg-name="Rádio Devín (Sro 3)" tvg-logo="SK_Radio_Devin_Sro_3.png" tvg-country="SK" group-title="radio" radio="true", Rádio Devín (Sro 3)
+#EXTINF:-1 tvg-id="517405" tvg-name="Rádio Devín (Sro 3)" tvg-logo="SK_Radio_Devin_Sro_3.png" tvg-country="SK" group-title="radio" radio="true", Rádio Devín (Sro 3) mp3 256
 https://live.slovakradio.sk:8000/Devin_256.mp3
-#EXTINF:-1 tvg-id="10026" tvg-name="Sro 4 Radio FM" tvg-logo="SK_Sro_4_Radio_FM.png" tvg-country="SK" group-title="radio" radio="true", Sro 4 Radio FM
+#EXTINF:-1 tvg-id="10026" tvg-name="Sro 4 Radio FM" tvg-logo="SK_Sro_4_Radio_FM.png" tvg-country="SK" group-title="radio" radio="true", Sro 4 Radio FM mp3 32
 https://live.slovakradio.sk:8000/FM_32.mp3
-#EXTINF:-1 tvg-id="10026" tvg-name="Sro 4 Radio FM" tvg-logo="SK_Sro_4_Radio_FM.png" tvg-country="SK" group-title="radio" radio="true", Sro 4 Radio FM
+#EXTINF:-1 tvg-id="10026" tvg-name="Sro 4 Radio FM" tvg-logo="SK_Sro_4_Radio_FM.png" tvg-country="SK" group-title="radio" radio="true", Sro 4 Radio FM mp3 128
 https://icecast.stv.livebox.sk/fm_128.mp3
-#EXTINF:-1 tvg-id="10026" tvg-name="Sro 4 Radio FM" tvg-logo="SK_Sro_4_Radio_FM.png" tvg-country="SK" group-title="radio" radio="true", Sro 4 Radio FM
+#EXTINF:-1 tvg-id="10026" tvg-name="Sro 4 Radio FM" tvg-logo="SK_Sro_4_Radio_FM.png" tvg-country="SK" group-title="radio" radio="true", Sro 4 Radio FM mp3 256
 https://live.slovakradio.sk:8000/FM_256.mp3
-#EXTINF:-1 tvg-id="609050" tvg-name="Rádio Expres" tvg-logo="SK_Radio_Expres.png" tvg-country="SK" group-title="radio" radio="true", Rádio Expres
+#EXTINF:-1 tvg-id="609050" tvg-name="Rádio Expres" tvg-logo="SK_Radio_Expres.png" tvg-country="SK" group-title="radio" radio="true", Rádio Expres None None
 https://www.expres.sk/stream
-#EXTINF:-1 tvg-id="609050" tvg-name="Rádio Expres" tvg-logo="SK_Radio_Expres.png" tvg-country="SK" group-title="radio" radio="true", Rádio Expres
+#EXTINF:-1 tvg-id="609050" tvg-name="Rádio Expres" tvg-logo="SK_Radio_Expres.png" tvg-country="SK" group-title="radio" radio="true", Rádio Expres mp3 64
 https://stream.expres.sk/96.mp3
-#EXTINF:-1 tvg-id="609050" tvg-name="Rádio Expres" tvg-logo="SK_Radio_Expres.png" tvg-country="SK" group-title="radio" radio="true", Rádio Expres
+#EXTINF:-1 tvg-id="609050" tvg-name="Rádio Expres" tvg-logo="SK_Radio_Expres.png" tvg-country="SK" group-title="radio" radio="true", Rádio Expres mp3 64
 https://stream.expres.sk/64.mp3
-#EXTINF:-1 tvg-id="609050" tvg-name="Rádio Expres" tvg-logo="SK_Radio_Expres.png" tvg-country="SK" group-title="radio" radio="true", Rádio Expres
+#EXTINF:-1 tvg-id="609050" tvg-name="Rádio Expres" tvg-logo="SK_Radio_Expres.png" tvg-country="SK" group-title="radio" radio="true", Rádio Expres mp3 128
 https://stream.expres.sk/128.mp3
-#EXTINF:-1 tvg-id="609050" tvg-name="Rádio Expres" tvg-logo="SK_Radio_Expres.png" tvg-country="SK" group-title="radio" radio="true", Rádio Expres
+#EXTINF:-1 tvg-id="609050" tvg-name="Rádio Expres" tvg-logo="SK_Radio_Expres.png" tvg-country="SK" group-title="radio" radio="true", Rádio Expres mp3 128
 https://stream.bauermedia.sk/128.mp3
-#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen
+#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen 1 16
 https://audio.lumen.sk/aac20.aac
-#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen
+#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen 1 24
 https://audio.lumen.sk:8000/aac20.aac
-#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen
+#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen mp3 32
 https://audio.lumen.sk/live32.mp3
-#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen
+#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen mp3 64
 https://audio.lumen.sk/live64.mp3
-#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen
+#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen mp3 64
 https://audio.lumen.sk:8000/live64.mp3
-#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen
+#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen mp3 128
 https://audio.lumen.sk/live128.mp3
-#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen
+#EXTINF:-1 tvg-id="609062" tvg-name="Rádio Lumen" tvg-logo="SK_Radio_Lumen.png" tvg-country="SK" group-title="radio" radio="true", Rádio Lumen mp3 128
 https://audio.lumen.sk:8000/live128.mp3
-#EXTINF:-1 tvg-id="15815" tvg-name="Rádio Vlna" tvg-logo="SK_Radio_Vlna.png" tvg-country="SK" group-title="radio" radio="true", Rádio Vlna
+#EXTINF:-1 tvg-id="15815" tvg-name="Rádio Vlna" tvg-logo="SK_Radio_Vlna.png" tvg-country="SK" group-title="radio" radio="true", Rádio Vlna mp3 64
 https://stream.radiovlna.sk/vlna-lo.mp3
-#EXTINF:-1 tvg-id="15815" tvg-name="Rádio Vlna" tvg-logo="SK_Radio_Vlna.png" tvg-country="SK" group-title="radio" radio="true", Rádio Vlna
+#EXTINF:-1 tvg-id="15815" tvg-name="Rádio Vlna" tvg-logo="SK_Radio_Vlna.png" tvg-country="SK" group-title="radio" radio="true", Rádio Vlna mp3 128
 https://stream.radiovlna.sk/vlna-hi.mp3
-#EXTINF:-1 tvg-id="609052" tvg-name="Fun Rádio" tvg-logo="SK_Fun_Radio.png" tvg-country="SK" group-title="radio" radio="true", Fun Rádio
+#EXTINF:-1 tvg-id="609052" tvg-name="Fun Rádio" tvg-logo="SK_Fun_Radio.png" tvg-country="SK" group-title="radio" radio="true", Fun Rádio None None
 https://www.funradio.sk/player
-#EXTINF:-1 tvg-id="609052" tvg-name="Fun Rádio" tvg-logo="SK_Fun_Radio.png" tvg-country="SK" group-title="radio" radio="true", Fun Rádio
+#EXTINF:-1 tvg-id="609052" tvg-name="Fun Rádio" tvg-logo="SK_Fun_Radio.png" tvg-country="SK" group-title="radio" radio="true", Fun Rádio mp3 128
 https://stream.funradio.sk:8000/fun128.mp3
-#EXTINF:-1 tvg-id="510443" tvg-name="Europa 2" tvg-logo="SK_Europa_2.png" tvg-country="SK" group-title="radio" radio="true", Europa 2
+#EXTINF:-1 tvg-id="510443" tvg-name="Europa 2" tvg-logo="SK_Europa_2.png" tvg-country="SK" group-title="radio" radio="true", Europa 2 mp3 64
 https://stream.bauermedia.sk/europa2-lo.mp3
-#EXTINF:-1 tvg-id="510443" tvg-name="Europa 2" tvg-logo="SK_Europa_2.png" tvg-country="SK" group-title="radio" radio="true", Europa 2
+#EXTINF:-1 tvg-id="510443" tvg-name="Europa 2" tvg-logo="SK_Europa_2.png" tvg-country="SK" group-title="radio" radio="true", Europa 2 mp3 128
 https://stream.bauermedia.sk/europa2.mp3
-#EXTINF:-1 tvg-id="852683" tvg-name="Rádio Jemné" tvg-logo="SK_Radio_Jemne.png" tvg-country="SK" group-title="radio" radio="true", Rádio Jemné
+#EXTINF:-1 tvg-id="852683" tvg-name="Rádio Jemné" tvg-logo="SK_Radio_Jemne.png" tvg-country="SK" group-title="radio" radio="true", Rádio Jemné mp3 128
 https://stream.bauermedia.sk/melody-hi.mp3
-#EXTINF:-1 tvg-id="59315" tvg-name="Sro 2 Rádio Regina Banská Bystrica" tvg-logo="SK_Sro_2_Radio_Regina_Banska_Bystrica.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Banská Bystrica
+#EXTINF:-1 tvg-id="59315" tvg-name="Sro 2 Rádio Regina Banská Bystrica" tvg-logo="SK_Sro_2_Radio_Regina_Banska_Bystrica.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Banská Bystrica mp3 128
 https://icecast.stv.livebox.sk/regina-bb_128.mp3
-#EXTINF:-1 tvg-id="59315" tvg-name="Sro 2 Rádio Regina Banská Bystrica" tvg-logo="SK_Sro_2_Radio_Regina_Banska_Bystrica.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Banská Bystrica
+#EXTINF:-1 tvg-id="59315" tvg-name="Sro 2 Rádio Regina Banská Bystrica" tvg-logo="SK_Sro_2_Radio_Regina_Banska_Bystrica.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Banská Bystrica mp3 128
 https://live.slovakradio.sk:8000/Regina_BB_128.mp3
-#EXTINF:-1 tvg-id="548274" tvg-name="Rádio Anténa Rock" tvg-logo="SK_Radio_Antena_Rock.png" tvg-country="SK" group-title="radio" radio="true", Rádio Anténa Rock
+#EXTINF:-1 tvg-id="548274" tvg-name="Rádio Anténa Rock" tvg-logo="SK_Radio_Antena_Rock.png" tvg-country="SK" group-title="radio" radio="true", Rádio Anténa Rock None None
 https://radiorock.sk
-#EXTINF:-1 tvg-id="609054" tvg-name="Rádio Patria (Sro 5)" tvg-logo="SK_Radio_Patria_Sro_5.png" tvg-country="SK" group-title="radio" radio="true", Rádio Patria (Sro 5)
+#EXTINF:-1 tvg-id="609054" tvg-name="Rádio Patria (Sro 5)" tvg-logo="SK_Radio_Patria_Sro_5.png" tvg-country="SK" group-title="radio" radio="true", Rádio Patria (Sro 5) mp3 32
 https://live.slovakradio.sk:8000/Patria_32.mp3
-#EXTINF:-1 tvg-id="609054" tvg-name="Rádio Patria (Sro 5)" tvg-logo="SK_Radio_Patria_Sro_5.png" tvg-country="SK" group-title="radio" radio="true", Rádio Patria (Sro 5)
+#EXTINF:-1 tvg-id="609054" tvg-name="Rádio Patria (Sro 5)" tvg-logo="SK_Radio_Patria_Sro_5.png" tvg-country="SK" group-title="radio" radio="true", Rádio Patria (Sro 5) mp3 128
 https://icecast.stv.livebox.sk/patria_128.mp3
-#EXTINF:-1 tvg-id="609054" tvg-name="Rádio Patria (Sro 5)" tvg-logo="SK_Radio_Patria_Sro_5.png" tvg-country="SK" group-title="radio" radio="true", Rádio Patria (Sro 5)
+#EXTINF:-1 tvg-id="609054" tvg-name="Rádio Patria (Sro 5)" tvg-logo="SK_Radio_Patria_Sro_5.png" tvg-country="SK" group-title="radio" radio="true", Rádio Patria (Sro 5) mp3 128
 https://live.slovakradio.sk:8000/Patria_128.mp3
-#EXTINF:-1 tvg-id="609054" tvg-name="Rádio Patria (Sro 5)" tvg-logo="SK_Radio_Patria_Sro_5.png" tvg-country="SK" group-title="radio" radio="true", Rádio Patria (Sro 5)
+#EXTINF:-1 tvg-id="609054" tvg-name="Rádio Patria (Sro 5)" tvg-logo="SK_Radio_Patria_Sro_5.png" tvg-country="SK" group-title="radio" radio="true", Rádio Patria (Sro 5) mp3 256
 https://live.slovakradio.sk:8000/Patria_256.mp3
-#EXTINF:-1 tvg-id="23432" tvg-name="Radio Rock" tvg-logo="SK_Radio_Rock.png" tvg-country="SK" group-title="radio" radio="true", Radio Rock
+#EXTINF:-1 tvg-id="23432" tvg-name="Radio Rock" tvg-logo="SK_Radio_Rock.png" tvg-country="SK" group-title="radio" radio="true", Radio Rock mp3 128
 https://stream.bauermedia.sk/rock-hi.mp3
-#EXTINF:-1 tvg-id="413910" tvg-name="Radio Maria Slovensko" tvg-logo="SK_Radio_Maria_Slovensko.png" tvg-country="SK" group-title="radio" radio="true", Radio Maria Slovensko
+#EXTINF:-1 tvg-id="413910" tvg-name="Radio Maria Slovensko" tvg-logo="SK_Radio_Maria_Slovensko.png" tvg-country="SK" group-title="radio" radio="true", Radio Maria Slovensko mp3 40
 https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3
-#EXTINF:-1 tvg-id="413910" tvg-name="Radio Maria Slovensko" tvg-logo="SK_Radio_Maria_Slovensko.png" tvg-country="SK" group-title="radio" radio="true", Radio Maria Slovensko
+#EXTINF:-1 tvg-id="413910" tvg-name="Radio Maria Slovensko" tvg-logo="SK_Radio_Maria_Slovensko.png" tvg-country="SK" group-title="radio" radio="true", Radio Maria Slovensko 1 40
 https://dreamsiteradiocp5.com/proxy/radiomariaslovensko?mp=/;
-#EXTINF:-1 tvg-id="519819" tvg-name="Sro 2 Rádio Regina Košice" tvg-logo="SK_Sro_2_Radio_Regina_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Košice
+#EXTINF:-1 tvg-id="519819" tvg-name="Sro 2 Rádio Regina Košice" tvg-logo="SK_Sro_2_Radio_Regina_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Košice mp3 32
 https://live.slovakradio.sk:8000/Regina_KE_32.mp3
-#EXTINF:-1 tvg-id="519819" tvg-name="Sro 2 Rádio Regina Košice" tvg-logo="SK_Sro_2_Radio_Regina_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Košice
+#EXTINF:-1 tvg-id="519819" tvg-name="Sro 2 Rádio Regina Košice" tvg-logo="SK_Sro_2_Radio_Regina_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Košice mp3 128
 https://icecast.stv.livebox.sk/regina-ke_128.mp3
-#EXTINF:-1 tvg-id="519819" tvg-name="Sro 2 Rádio Regina Košice" tvg-logo="SK_Sro_2_Radio_Regina_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Košice
+#EXTINF:-1 tvg-id="519819" tvg-name="Sro 2 Rádio Regina Košice" tvg-logo="SK_Sro_2_Radio_Regina_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Košice mp3 128
 https://live.slovakradio.sk:8000/Regina_KE_128.mp3
-#EXTINF:-1 tvg-id="519819" tvg-name="Sro 2 Rádio Regina Košice" tvg-logo="SK_Sro_2_Radio_Regina_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Košice
+#EXTINF:-1 tvg-id="519819" tvg-name="Sro 2 Rádio Regina Košice" tvg-logo="SK_Sro_2_Radio_Regina_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Košice mp3 256
 https://live.slovakradio.sk:8000/Regina_KE_256.mp3
-#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva
+#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva 1 24
 https://stream.sepia.sk:8000/viva24.aac
-#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva
+#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva 1 24
 https://stream.sepia.sk/viva24.aac
-#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva
+#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva mp3 64
 https://stream.sepia.sk:8000/viva64.mp3
-#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva
+#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva mp3 64
 https://stream.sepia.sk/viva64.mp3
-#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva
+#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva 1 64
 https://stream.sepia.sk/viva64.aac
-#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva
+#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva 1 80
 https://stream.sepia.sk:8000/viva64.aac
-#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva
+#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva mp3 128
 https://stream.sepia.sk/viva128.mp3
-#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva
+#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva mp3 128
 https://stream.sepia.sk:8000/viva128.mp3
-#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva
+#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva mp3 320
 https://stream.sepia.sk:8000/viva320.mp3
-#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva
+#EXTINF:-1 tvg-id="618786" tvg-name="Rádio Viva" tvg-logo="SK_Radio_Viva.png" tvg-country="SK" group-title="radio" radio="true", Rádio Viva mp3 320
 https://stream.sepia.sk/viva320.mp3
-#EXTINF:-1 tvg-id="609065" tvg-name="Sro 6 Radio Slovakia International" tvg-logo="SK_Sro_6_Radio_Slovakia_International.png" tvg-country="SK" group-title="radio" radio="true", Sro 6 Radio Slovakia International
+#EXTINF:-1 tvg-id="609065" tvg-name="Sro 6 Radio Slovakia International" tvg-logo="SK_Sro_6_Radio_Slovakia_International.png" tvg-country="SK" group-title="radio" radio="true", Sro 6 Radio Slovakia International mp3 32
 https://live.slovakradio.sk:8000/RSI_32.mp3
-#EXTINF:-1 tvg-id="609065" tvg-name="Sro 6 Radio Slovakia International" tvg-logo="SK_Sro_6_Radio_Slovakia_International.png" tvg-country="SK" group-title="radio" radio="true", Sro 6 Radio Slovakia International
+#EXTINF:-1 tvg-id="609065" tvg-name="Sro 6 Radio Slovakia International" tvg-logo="SK_Sro_6_Radio_Slovakia_International.png" tvg-country="SK" group-title="radio" radio="true", Sro 6 Radio Slovakia International mp3 128
 https://icecast.stv.livebox.sk/rsi_128.mp3
-#EXTINF:-1 tvg-id="609065" tvg-name="Sro 6 Radio Slovakia International" tvg-logo="SK_Sro_6_Radio_Slovakia_International.png" tvg-country="SK" group-title="radio" radio="true", Sro 6 Radio Slovakia International
+#EXTINF:-1 tvg-id="609065" tvg-name="Sro 6 Radio Slovakia International" tvg-logo="SK_Sro_6_Radio_Slovakia_International.png" tvg-country="SK" group-title="radio" radio="true", Sro 6 Radio Slovakia International mp3 128
 https://live.slovakradio.sk:8000/RSI_128.mp3
-#EXTINF:-1 tvg-id="609065" tvg-name="Sro 6 Radio Slovakia International" tvg-logo="SK_Sro_6_Radio_Slovakia_International.png" tvg-country="SK" group-title="radio" radio="true", Sro 6 Radio Slovakia International
+#EXTINF:-1 tvg-id="609065" tvg-name="Sro 6 Radio Slovakia International" tvg-logo="SK_Sro_6_Radio_Slovakia_International.png" tvg-country="SK" group-title="radio" radio="true", Sro 6 Radio Slovakia International mp3 256
 https://live.slovakradio.sk:8000/RSI_256.mp3
-#EXTINF:-1 tvg-id="19362" tvg-name="Sro 9 Rádio Junior" tvg-logo="SK_Sro_9_Radio_Junior.png" tvg-country="SK" group-title="radio" radio="true", Sro 9 Rádio Junior
+#EXTINF:-1 tvg-id="19362" tvg-name="Sro 9 Rádio Junior" tvg-logo="SK_Sro_9_Radio_Junior.png" tvg-country="SK" group-title="radio" radio="true", Sro 9 Rádio Junior mp3 32
 https://live.slovakradio.sk:8000/Junior_32.mp3
-#EXTINF:-1 tvg-id="19362" tvg-name="Sro 9 Rádio Junior" tvg-logo="SK_Sro_9_Radio_Junior.png" tvg-country="SK" group-title="radio" radio="true", Sro 9 Rádio Junior
+#EXTINF:-1 tvg-id="19362" tvg-name="Sro 9 Rádio Junior" tvg-logo="SK_Sro_9_Radio_Junior.png" tvg-country="SK" group-title="radio" radio="true", Sro 9 Rádio Junior mp3 128
 https://icecast.stv.livebox.sk/junior_128.mp3
-#EXTINF:-1 tvg-id="19362" tvg-name="Sro 9 Rádio Junior" tvg-logo="SK_Sro_9_Radio_Junior.png" tvg-country="SK" group-title="radio" radio="true", Sro 9 Rádio Junior
+#EXTINF:-1 tvg-id="19362" tvg-name="Sro 9 Rádio Junior" tvg-logo="SK_Sro_9_Radio_Junior.png" tvg-country="SK" group-title="radio" radio="true", Sro 9 Rádio Junior mp3 128
 https://live.slovakradio.sk:8000/Junior_128.mp3
-#EXTINF:-1 tvg-id="19362" tvg-name="Sro 9 Rádio Junior" tvg-logo="SK_Sro_9_Radio_Junior.png" tvg-country="SK" group-title="radio" radio="true", Sro 9 Rádio Junior
+#EXTINF:-1 tvg-id="19362" tvg-name="Sro 9 Rádio Junior" tvg-logo="SK_Sro_9_Radio_Junior.png" tvg-country="SK" group-title="radio" radio="true", Sro 9 Rádio Junior mp3 256
 https://live.slovakradio.sk:8000/Junior_256.mp3
-#EXTINF:-1 tvg-id="10024" tvg-name="Sro 2 Rádio Regina Bratislava" tvg-logo="SK_Sro_2_Radio_Regina_Bratislava.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Bratislava
+#EXTINF:-1 tvg-id="10024" tvg-name="Sro 2 Rádio Regina Bratislava" tvg-logo="SK_Sro_2_Radio_Regina_Bratislava.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Bratislava mp3 32
 https://live.slovakradio.sk:8000/Regina_BB_32.mp3
-#EXTINF:-1 tvg-id="10024" tvg-name="Sro 2 Rádio Regina Bratislava" tvg-logo="SK_Sro_2_Radio_Regina_Bratislava.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Bratislava
+#EXTINF:-1 tvg-id="10024" tvg-name="Sro 2 Rádio Regina Bratislava" tvg-logo="SK_Sro_2_Radio_Regina_Bratislava.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Bratislava mp3 32
 https://live.slovakradio.sk:8000/Regina_BA_32.mp3
-#EXTINF:-1 tvg-id="10024" tvg-name="Sro 2 Rádio Regina Bratislava" tvg-logo="SK_Sro_2_Radio_Regina_Bratislava.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Bratislava
+#EXTINF:-1 tvg-id="10024" tvg-name="Sro 2 Rádio Regina Bratislava" tvg-logo="SK_Sro_2_Radio_Regina_Bratislava.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Bratislava mp3 128
 https://icecast.stv.livebox.sk/regina-ba_128.mp3
-#EXTINF:-1 tvg-id="10024" tvg-name="Sro 2 Rádio Regina Bratislava" tvg-logo="SK_Sro_2_Radio_Regina_Bratislava.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Bratislava
+#EXTINF:-1 tvg-id="10024" tvg-name="Sro 2 Rádio Regina Bratislava" tvg-logo="SK_Sro_2_Radio_Regina_Bratislava.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Bratislava mp3 128
 https://live.slovakradio.sk:8000/Regina_BA_128.mp3
-#EXTINF:-1 tvg-id="10024" tvg-name="Sro 2 Rádio Regina Bratislava" tvg-logo="SK_Sro_2_Radio_Regina_Bratislava.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Bratislava
+#EXTINF:-1 tvg-id="10024" tvg-name="Sro 2 Rádio Regina Bratislava" tvg-logo="SK_Sro_2_Radio_Regina_Bratislava.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Bratislava mp3 256
 https://live.slovakradio.sk:8000/Regina_BA_256.mp3
-#EXTINF:-1 tvg-id="10024" tvg-name="Sro 2 Rádio Regina Bratislava" tvg-logo="SK_Sro_2_Radio_Regina_Bratislava.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Bratislava
+#EXTINF:-1 tvg-id="10024" tvg-name="Sro 2 Rádio Regina Bratislava" tvg-logo="SK_Sro_2_Radio_Regina_Bratislava.png" tvg-country="SK" group-title="radio" radio="true", Sro 2 Rádio Regina Bratislava mp3 256
 https://live.slovakradio.sk:8000/Regina_BB_256.mp3
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice mp3 64
 https://stream.21.sk/radiokosice-64.mp3
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice mp3 64
 https://stream.ecce.sk:8000/radiokosice-64.mp3
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice mp3 64
 https://stream.alternet.sk:8000/radiokosice-64.mp3
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice mp3 64
 https://stream.21.sk:8000/radiokosice-64.mp3
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice vor 96
 https://stream.21.sk/radiokosice-96.ogg
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice vor 96
 https://stream.ecce.sk:8000/radiokosice-96.ogg
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice vor 96
 https://stream.alternet.sk:8000/radiokosice-96.ogg
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice vor 96
 https://stream.21.sk:8000/radiokosice-96.ogg
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice mp3 128
 https://stream.21.sk/radiokosice-128.mp3
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice mp3 128
 https://stream.21.sk/radiokosice-ba-128.mp3
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice mp3 128
 https://stream.21.sk:8000/radiokosice-ba-128.mp3
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice mp3 128
 https://stream.21.sk:8000/radiokosice-128.mp3
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice mp3 128
 https://stream.ecce.sk:8000/radiokosice-128.mp3
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice mp3 128
 https://stream.alternet.sk:8000/radiokosice-ba-128.mp3
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice mp3 128
 https://stream.alternet.sk:8000/radiokosice-128.mp3
-#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice
+#EXTINF:-1 tvg-id="74971" tvg-name="Rádio Košice" tvg-logo="SK_Radio_Kosice.png" tvg-country="SK" group-title="radio" radio="true", Rádio Košice mp3 128
 https://stream.ecce.sk:8000/radiokosice-ba-128.mp3
-#EXTINF:-1 tvg-id="59041" tvg-name="Rádio Best FM" tvg-logo="SK_Radio_Best_FM.png" tvg-country="SK" group-title="radio" radio="true", Rádio Best FM
+#EXTINF:-1 tvg-id="59041" tvg-name="Rádio Best FM" tvg-logo="SK_Radio_Best_FM.png" tvg-country="SK" group-title="radio" radio="true", Rádio Best FM mp3 128
 https://stream3.bestfm.sk:8000/128.mp3
-#EXTINF:-1 tvg-id="10003" tvg-name="Rádio 7" tvg-logo="SK_Radio_7.png" tvg-country="SK" group-title="radio" radio="true", Rádio 7
+#EXTINF:-1 tvg-id="10003" tvg-name="Rádio 7" tvg-logo="SK_Radio_7.png" tvg-country="SK" group-title="radio" radio="true", Rádio 7 1 72
 https://play.radio7.sk/64
-#EXTINF:-1 tvg-id="10003" tvg-name="Rádio 7" tvg-logo="SK_Radio_7.png" tvg-country="SK" group-title="radio" radio="true", Rádio 7
+#EXTINF:-1 tvg-id="10003" tvg-name="Rádio 7" tvg-logo="SK_Radio_7.png" tvg-country="SK" group-title="radio" radio="true", Rádio 7 mp3 128
 https://play.radio7.sk/128
-#EXTINF:-1 tvg-id="609049" tvg-name="Beta Rádio" tvg-logo="SK_Beta_Radio.png" tvg-country="SK" group-title="radio" radio="true", Beta Rádio
+#EXTINF:-1 tvg-id="609049" tvg-name="Beta Rádio" tvg-logo="SK_Beta_Radio.png" tvg-country="SK" group-title="radio" radio="true", Beta Rádio mp3 64
 https://109.71.67.102:8000/beta_live_low.mp3
-#EXTINF:-1 tvg-id="609049" tvg-name="Beta Rádio" tvg-logo="SK_Beta_Radio.png" tvg-country="SK" group-title="radio" radio="true", Beta Rádio
+#EXTINF:-1 tvg-id="609049" tvg-name="Beta Rádio" tvg-logo="SK_Beta_Radio.png" tvg-country="SK" group-title="radio" radio="true", Beta Rádio mp3 128
 https://109.71.67.102:8000/beta_live_high.mp3
-#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio
+#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio mp3 64
 https://stream.21.sk/detskeradio-64.mp3
-#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio
+#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio mp3 64
 https://stream.21.sk:8000/detskeradio-64.mp3
-#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio
+#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio mp3 64
 https://stream.ecce.sk:8000/detskeradio-64.mp3
-#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio
+#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio mp3 64
 https://stream.alternet.sk:8000/detskeradio-64.mp3
-#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio
+#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio mp3 128
 https://stream.21.sk/detskeradio-128.mp3
-#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio
+#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio mp3 128
 https://stream.alternet.sk:8000/detskeradio-128.mp3
-#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio
+#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio mp3 128
 https://stream.21.sk:8000/detskeradio-128.mp3
-#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio
+#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio mp3 128
 https://stream.ecce.sk:8000/detskeradio-128.mp3
-#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio
+#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio mp3 192
 https://stream.21.sk/detskeradio-192.mp3
-#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio
+#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio mp3 192
 https://stream.alternet.sk:8000/detskeradio-192.mp3
-#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio
+#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio mp3 192
 https://stream.21.sk:8000/detskeradio-192.mp3
-#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio
+#EXTINF:-1 tvg-id="17511" tvg-name="Detské Rádio" tvg-logo="SK_Detske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Detské Rádio mp3 192
 https://stream.ecce.sk:8000/detskeradio-192.mp3
-#EXTINF:-1 tvg-id="55391" tvg-name="Trnavské Rádio" tvg-logo="SK_Trnavske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Trnavské Rádio
+#EXTINF:-1 tvg-id="55391" tvg-name="Trnavské Rádio" tvg-logo="SK_Trnavske_Radio.png" tvg-country="SK" group-title="radio" radio="true", Trnavské Rádio mp3 128
 https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske
-#EXTINF:-1 tvg-id="16175" tvg-name="Radio Sub FM" tvg-logo="SK_Radio_Sub_FM.png" tvg-country="SK" group-title="radio" radio="true", Radio Sub FM
+#EXTINF:-1 tvg-id="16175" tvg-name="Radio Sub FM" tvg-logo="SK_Radio_Sub_FM.png" tvg-country="SK" group-title="radio" radio="true", Radio Sub FM mp3 192
 https://stream.subfm.sk/subfm
-#EXTINF:-1 tvg-id="16175" tvg-name="Radio Sub FM" tvg-logo="SK_Radio_Sub_FM.png" tvg-country="SK" group-title="radio" radio="true", Radio Sub FM
+#EXTINF:-1 tvg-id="16175" tvg-name="Radio Sub FM" tvg-logo="SK_Radio_Sub_FM.png" tvg-country="SK" group-title="radio" radio="true", Radio Sub FM mp3 320
 https://stream.subfm.sk/subfmhi
-#EXTINF:-1 tvg-id="609051" tvg-name="Rádio Frontinus" tvg-logo="SK_Radio_Frontinus.png" tvg-country="SK" group-title="radio" radio="true", Rádio Frontinus
+#EXTINF:-1 tvg-id="609051" tvg-name="Rádio Frontinus" tvg-logo="SK_Radio_Frontinus.png" tvg-country="SK" group-title="radio" radio="true", Rádio Frontinus mp3 128
 https://stream.frontinus.sk:8888/frontinus128.mp3
-#EXTINF:-1 tvg-id="609051" tvg-name="Rádio Frontinus" tvg-logo="SK_Radio_Frontinus.png" tvg-country="SK" group-title="radio" radio="true", Rádio Frontinus
+#EXTINF:-1 tvg-id="609051" tvg-name="Rádio Frontinus" tvg-logo="SK_Radio_Frontinus.png" tvg-country="SK" group-title="radio" radio="true", Rádio Frontinus mp3 128
 https://stream.frontinus.sk:8000/frontinus128.mp3
-#EXTINF:-1 tvg-id="59390" tvg-name="Rádio Šírava" tvg-logo="SK_Radio_Sirava.png" tvg-country="SK" group-title="radio" radio="true", Rádio Šírava
+#EXTINF:-1 tvg-id="59390" tvg-name="Rádio Šírava" tvg-logo="SK_Radio_Sirava.png" tvg-country="SK" group-title="radio" radio="true", Rádio Šírava mp3 128
 https://stream.sepia.sk:8000/radiosirava.mp3
-#EXTINF:-1 tvg-id="413838" tvg-name="Mirjam Rádio" tvg-logo="SK_Mirjam_Radio.png" tvg-country="SK" group-title="radio" radio="true", Mirjam Rádio
+#EXTINF:-1 tvg-id="413838" tvg-name="Mirjam Rádio" tvg-logo="SK_Mirjam_Radio.png" tvg-country="SK" group-title="radio" radio="true", Mirjam Rádio None None
 https://mariaradio.sk
-#EXTINF:-1 tvg-id="83775" tvg-name="Radio Maria Slovakia Hungarian Service" tvg-logo="SK_Radio_Maria_Slovakia_Hungarian_Service.png" tvg-country="SK" group-title="radio" radio="true", Radio Maria Slovakia Hungarian Service
+#EXTINF:-1 tvg-id="83775" tvg-name="Radio Maria Slovakia Hungarian Service" tvg-logo="SK_Radio_Maria_Slovakia_Hungarian_Service.png" tvg-country="SK" group-title="radio" radio="true", Radio Maria Slovakia Hungarian Service 1 40
 https://dreamsiteradiocp5.com:8012/streaming.mp3
-#EXTINF:-1 tvg-id="83775" tvg-name="Radio Maria Slovakia Hungarian Service" tvg-logo="SK_Radio_Maria_Slovakia_Hungarian_Service.png" tvg-country="SK" group-title="radio" radio="true", Radio Maria Slovakia Hungarian Service
+#EXTINF:-1 tvg-id="83775" tvg-name="Radio Maria Slovakia Hungarian Service" tvg-logo="SK_Radio_Maria_Slovakia_Hungarian_Service.png" tvg-country="SK" group-title="radio" radio="true", Radio Maria Slovakia Hungarian Service mp3 64
 https://dreamsiteradiocp5.com/proxy/rmslo?mp=/stream
-#EXTINF:-1 tvg-id="83775" tvg-name="Radio Maria Slovakia Hungarian Service" tvg-logo="SK_Radio_Maria_Slovakia_Hungarian_Service.png" tvg-country="SK" group-title="radio" radio="true", Radio Maria Slovakia Hungarian Service
+#EXTINF:-1 tvg-id="83775" tvg-name="Radio Maria Slovakia Hungarian Service" tvg-logo="SK_Radio_Maria_Slovakia_Hungarian_Service.png" tvg-country="SK" group-title="radio" radio="true", Radio Maria Slovakia Hungarian Service mp3 96
 https://193.87.81.131:8081/MariaRadioFelvidek
-#EXTINF:-1 tvg-id="74972" tvg-name="Sky Rádio" tvg-logo="SK_Sky_Radio.png" tvg-country="SK" group-title="radio" radio="true", Sky Rádio
+#EXTINF:-1 tvg-id="74972" tvg-name="Sky Rádio" tvg-logo="SK_Sky_Radio.png" tvg-country="SK" group-title="radio" radio="true", Sky Rádio None None
 https://stream.skyradio.sk/live
-#EXTINF:-1 tvg-id="74972" tvg-name="Sky Rádio" tvg-logo="SK_Sky_Radio.png" tvg-country="SK" group-title="radio" radio="true", Sky Rádio
+#EXTINF:-1 tvg-id="74972" tvg-name="Sky Rádio" tvg-logo="SK_Sky_Radio.png" tvg-country="SK" group-title="radio" radio="true", Sky Rádio mp3 64
 https://stream.skyradio.sk:8000/sky64
-#EXTINF:-1 tvg-id="74972" tvg-name="Sky Rádio" tvg-logo="SK_Sky_Radio.png" tvg-country="SK" group-title="radio" radio="true", Sky Rádio
+#EXTINF:-1 tvg-id="74972" tvg-name="Sky Rádio" tvg-logo="SK_Sky_Radio.png" tvg-country="SK" group-title="radio" radio="true", Sky Rádio mp3 128
 https://stream.skyradio.sk:8000/sky128
-#EXTINF:-1 tvg-id="74972" tvg-name="Sky Rádio" tvg-logo="SK_Sky_Radio.png" tvg-country="SK" group-title="radio" radio="true", Sky Rádio
+#EXTINF:-1 tvg-id="74972" tvg-name="Sky Rádio" tvg-logo="SK_Sky_Radio.png" tvg-country="SK" group-title="radio" radio="true", Sky Rádio mp3 192
 https://stream.skyradio.sk:8000/sky192
-#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM
+#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM mp3 64
 https://stream.bbfm.sk:18443/bbfm64.mp3
-#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM
+#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM mp3 64
 https://stream.bbfm.sk/bbfm64.mp3
-#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM
+#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM mp3 128
 https://stream.bbfm.sk:18443/bbfm128.mp3
-#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM
+#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM mp3 128
 https://stream.bbfm.sk/bbfm128.mp3
-#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM
+#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM mp3 256
 https://stream.bbfm.sk:18443/bbfm256.mp3
-#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM
+#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM mp3 256
 https://stream.bbfm.sk/bbfm256.mp3
-#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM
+#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM mp3 320
 https://stream.bbfm.sk:18443/bbfm320.mp3
-#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM
+#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM mp3 320
 https://stream.bbfm.sk/bbfm320.mp3
-#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM
+#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM mp3 320
 https://stream.bbfm.sk/rebit.mp3
-#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM
+#EXTINF:-1 tvg-id="415136" tvg-name="BB FM" tvg-logo="SK_BB_FM.png" tvg-country="SK" group-title="radio" radio="true", BB FM mp3 320
 https://stream.bbfm.sk:18443/rebit.mp3
-#EXTINF:-1 tvg-id="14163" tvg-name="Dobré Rádio" tvg-logo="SK_Dobre_Radio.png" tvg-country="SK" group-title="radio" radio="true", Dobré Rádio
+#EXTINF:-1 tvg-id="14163" tvg-name="Dobré Rádio" tvg-logo="SK_Dobre_Radio.png" tvg-country="SK" group-title="radio" radio="true", Dobré Rádio mp3 64
 https://stream.dobreradio.sk/dobreradio_lq.mp3
-#EXTINF:-1 tvg-id="14163" tvg-name="Dobré Rádio" tvg-logo="SK_Dobre_Radio.png" tvg-country="SK" group-title="radio" radio="true", Dobré Rádio
+#EXTINF:-1 tvg-id="14163" tvg-name="Dobré Rádio" tvg-logo="SK_Dobre_Radio.png" tvg-country="SK" group-title="radio" radio="true", Dobré Rádio mp3 128
 https://stream.dobreradio.sk/dobreradio.mp3
-#EXTINF:-1 tvg-id="538222" tvg-name="Rádio Si Ty" tvg-logo="SK_Radio_Si_Ty.png" tvg-country="SK" group-title="radio" radio="true", Rádio Si Ty
+#EXTINF:-1 tvg-id="538222" tvg-name="Rádio Si Ty" tvg-logo="SK_Radio_Si_Ty.png" tvg-country="SK" group-title="radio" radio="true", Rádio Si Ty 1 64
 https://radiosity.online:8000/aac
-#EXTINF:-1 tvg-id="15763" tvg-name="Rádio Liptov" tvg-logo="SK_Radio_Liptov.png" tvg-country="SK" group-title="radio" radio="true", Rádio Liptov
+#EXTINF:-1 tvg-id="15763" tvg-name="Rádio Liptov" tvg-logo="SK_Radio_Liptov.png" tvg-country="SK" group-title="radio" radio="true", Rádio Liptov None None
 https://www.lradio.sk
-#EXTINF:-1 tvg-id="16563" tvg-name="Bratislavsk Radio Radio" tvg-logo="SK_Bratislavsk_Radio_Radio.png" tvg-country="SK" group-title="radio" radio="true", Bratislavsk Radio Radio
+#EXTINF:-1 tvg-id="16563" tvg-name="Bratislavsk Radio Radio" tvg-logo="SK_Bratislavsk_Radio_Radio.png" tvg-country="SK" group-title="radio" radio="true", Bratislavsk Radio Radio None None
 https://bratislavskeradio.sk
-#EXTINF:-1 tvg-id="10029" tvg-name="Záhorácke Rádio" tvg-logo="SK_Zahoracke_Radio.png" tvg-country="SK" group-title="radio" radio="true", Záhorácke Rádio
+#EXTINF:-1 tvg-id="10029" tvg-name="Záhorácke Rádio" tvg-logo="SK_Zahoracke_Radio.png" tvg-country="SK" group-title="radio" radio="true", Záhorácke Rádio mp3 64
 https://limp.univers.hv315.lunet.site:8000/zr64.mp3
-#EXTINF:-1 tvg-id="10029" tvg-name="Záhorácke Rádio" tvg-logo="SK_Zahoracke_Radio.png" tvg-country="SK" group-title="radio" radio="true", Záhorácke Rádio
+#EXTINF:-1 tvg-id="10029" tvg-name="Záhorácke Rádio" tvg-logo="SK_Zahoracke_Radio.png" tvg-country="SK" group-title="radio" radio="true", Záhorácke Rádio mp3 64
 https://live.zahorackeradio.sk:8000/zr64.mp3
-#EXTINF:-1 tvg-id="10029" tvg-name="Záhorácke Rádio" tvg-logo="SK_Zahoracke_Radio.png" tvg-country="SK" group-title="radio" radio="true", Záhorácke Rádio
+#EXTINF:-1 tvg-id="10029" tvg-name="Záhorácke Rádio" tvg-logo="SK_Zahoracke_Radio.png" tvg-country="SK" group-title="radio" radio="true", Záhorácke Rádio mp3 64
 https://live.zahorackeradio.sk:8080/zr64.mp3
-#EXTINF:-1 tvg-id="10029" tvg-name="Záhorácke Rádio" tvg-logo="SK_Zahoracke_Radio.png" tvg-country="SK" group-title="radio" radio="true", Záhorácke Rádio
+#EXTINF:-1 tvg-id="10029" tvg-name="Záhorácke Rádio" tvg-logo="SK_Zahoracke_Radio.png" tvg-country="SK" group-title="radio" radio="true", Záhorácke Rádio mp3 128
 https://live.zahorackeradio.sk:8080/zr128.mp3
-#EXTINF:-1 tvg-id="10029" tvg-name="Záhorácke Rádio" tvg-logo="SK_Zahoracke_Radio.png" tvg-country="SK" group-title="radio" radio="true", Záhorácke Rádio
+#EXTINF:-1 tvg-id="10029" tvg-name="Záhorácke Rádio" tvg-logo="SK_Zahoracke_Radio.png" tvg-country="SK" group-title="radio" radio="true", Záhorácke Rádio mp3 128
 https://live.zahorackeradio.sk:8000/zr128.mp3
-#EXTINF:-1 tvg-id="10029" tvg-name="Záhorácke Rádio" tvg-logo="SK_Zahoracke_Radio.png" tvg-country="SK" group-title="radio" radio="true", Záhorácke Rádio
+#EXTINF:-1 tvg-id="10029" tvg-name="Záhorácke Rádio" tvg-logo="SK_Zahoracke_Radio.png" tvg-country="SK" group-title="radio" radio="true", Záhorácke Rádio mp3 128
 https://limp.univers.hv315.lunet.site:8000/zr128.mp3
-#EXTINF:-1 tvg-id="413913" tvg-name="Rádio Topoľčany" tvg-logo="SK_Radio_Topolcany.png" tvg-country="SK" group-title="radio" radio="true", Rádio Topoľčany
+#EXTINF:-1 tvg-id="413913" tvg-name="Rádio Topoľčany" tvg-logo="SK_Radio_Topolcany.png" tvg-country="SK" group-title="radio" radio="true", Rádio Topoľčany mp3 320
 https://80.242.44.249:8000/;
-#EXTINF:-1 tvg-id="413839" tvg-name="Rádio Aetter" tvg-logo="SK_Radio_Aetter.png" tvg-country="SK" group-title="radio" radio="true", Rádio Aetter
+#EXTINF:-1 tvg-id="413839" tvg-name="Rádio Aetter" tvg-logo="SK_Radio_Aetter.png" tvg-country="SK" group-title="radio" radio="true", Rádio Aetter mp3 128
 https://stream.aetter.sk/aetter-lq
-#EXTINF:-1 tvg-id="413839" tvg-name="Rádio Aetter" tvg-logo="SK_Radio_Aetter.png" tvg-country="SK" group-title="radio" radio="true", Rádio Aetter
+#EXTINF:-1 tvg-id="413839" tvg-name="Rádio Aetter" tvg-logo="SK_Radio_Aetter.png" tvg-country="SK" group-title="radio" radio="true", Rádio Aetter mp3 128
 https://stream.aetter.sk:8000/aetter-lq
-#EXTINF:-1 tvg-id="413839" tvg-name="Rádio Aetter" tvg-logo="SK_Radio_Aetter.png" tvg-country="SK" group-title="radio" radio="true", Rádio Aetter
+#EXTINF:-1 tvg-id="413839" tvg-name="Rádio Aetter" tvg-logo="SK_Radio_Aetter.png" tvg-country="SK" group-title="radio" radio="true", Rádio Aetter mp3 192
 https://stream.aetter.sk/aetter
-#EXTINF:-1 tvg-id="413839" tvg-name="Rádio Aetter" tvg-logo="SK_Radio_Aetter.png" tvg-country="SK" group-title="radio" radio="true", Rádio Aetter
+#EXTINF:-1 tvg-id="413839" tvg-name="Rádio Aetter" tvg-logo="SK_Radio_Aetter.png" tvg-country="SK" group-title="radio" radio="true", Rádio Aetter mp3 192
 https://stream.aetter.sk:8000/aetter
-#EXTINF:-1 tvg-id="413839" tvg-name="Rádio Aetter" tvg-logo="SK_Radio_Aetter.png" tvg-country="SK" group-title="radio" radio="true", Rádio Aetter
+#EXTINF:-1 tvg-id="413839" tvg-name="Rádio Aetter" tvg-logo="SK_Radio_Aetter.png" tvg-country="SK" group-title="radio" radio="true", Rádio Aetter mp3 320
 https://stream.aetter.sk/aetter-hq
-#EXTINF:-1 tvg-id="413839" tvg-name="Rádio Aetter" tvg-logo="SK_Radio_Aetter.png" tvg-country="SK" group-title="radio" radio="true", Rádio Aetter
+#EXTINF:-1 tvg-id="413839" tvg-name="Rádio Aetter" tvg-logo="SK_Radio_Aetter.png" tvg-country="SK" group-title="radio" radio="true", Rádio Aetter mp3 320
 https://stream.aetter.sk:8000/aetter-hq
-#EXTINF:-1 tvg-id="14728" tvg-name="Radio v Nitre" tvg-logo="SK_Radio_v_Nitre.png" tvg-country="SK" group-title="radio" radio="true", Radio v Nitre
+#EXTINF:-1 tvg-id="14728" tvg-name="Radio v Nitre" tvg-logo="SK_Radio_v_Nitre.png" tvg-country="SK" group-title="radio" radio="true", Radio v Nitre mp3 128
 https://radioserver.online:9932/radiovnitre_live.mp3
-#EXTINF:-1 tvg-id="14728" tvg-name="Radio v Nitre" tvg-logo="SK_Radio_v_Nitre.png" tvg-country="SK" group-title="radio" radio="true", Radio v Nitre
+#EXTINF:-1 tvg-id="14728" tvg-name="Radio v Nitre" tvg-logo="SK_Radio_v_Nitre.png" tvg-country="SK" group-title="radio" radio="true", Radio v Nitre mp3 128
 https://radioserver.online:8932/radiovnitre_live.mp3
-#EXTINF:-1 tvg-id="10544" tvg-name="Rádio Modra" tvg-logo="SK_Radio_Modra.png" tvg-country="SK" group-title="radio" radio="true", Rádio Modra
+#EXTINF:-1 tvg-id="10544" tvg-name="Rádio Modra" tvg-logo="SK_Radio_Modra.png" tvg-country="SK" group-title="radio" radio="true", Rádio Modra None None
 https://www.mediamodra-sk.eu
-#EXTINF:-1 tvg-id="15486" tvg-name="Reeves 77 - Jazz" tvg-logo="SK_Reeves_77_Jazz.png" tvg-country="SK" group-title="radio" radio="true", Reeves 77 - Jazz
+#EXTINF:-1 tvg-id="15486" tvg-name="Reeves 77 - Jazz" tvg-logo="SK_Reeves_77_Jazz.png" tvg-country="SK" group-title="radio" radio="true", Reeves 77 - Jazz mp3 128
 https://stream.sepia.sk/jazz128.mp3
-#EXTINF:-1 tvg-id="15486" tvg-name="Reeves 77 - Jazz" tvg-logo="SK_Reeves_77_Jazz.png" tvg-country="SK" group-title="radio" radio="true", Reeves 77 - Jazz
+#EXTINF:-1 tvg-id="15486" tvg-name="Reeves 77 - Jazz" tvg-logo="SK_Reeves_77_Jazz.png" tvg-country="SK" group-title="radio" radio="true", Reeves 77 - Jazz mp3 128
 https://stream.sepia.sk:8000/jazz128.mp3
-#EXTINF:-1 tvg-id="15486" tvg-name="Reeves 77 - Jazz" tvg-logo="SK_Reeves_77_Jazz.png" tvg-country="SK" group-title="radio" radio="true", Reeves 77 - Jazz
+#EXTINF:-1 tvg-id="15486" tvg-name="Reeves 77 - Jazz" tvg-logo="SK_Reeves_77_Jazz.png" tvg-country="SK" group-title="radio" radio="true", Reeves 77 - Jazz mp3 128
 https://stream.sepia.sk:8000/jazz192.mp3
-#EXTINF:-1 tvg-id="15486" tvg-name="Reeves 77 - Jazz" tvg-logo="SK_Reeves_77_Jazz.png" tvg-country="SK" group-title="radio" radio="true", Reeves 77 - Jazz
+#EXTINF:-1 tvg-id="15486" tvg-name="Reeves 77 - Jazz" tvg-logo="SK_Reeves_77_Jazz.png" tvg-country="SK" group-title="radio" radio="true", Reeves 77 - Jazz mp3 128
 https://stream.sepia.sk/jazz192.mp3
-#EXTINF:-1 tvg-id="39005" tvg-name="New Model Radio" tvg-logo="SK_New_Model_Radio.png" tvg-country="SK" group-title="radio" radio="true", New Model Radio
+#EXTINF:-1 tvg-id="39005" tvg-name="New Model Radio" tvg-logo="SK_New_Model_Radio.png" tvg-country="SK" group-title="radio" radio="true", New Model Radio None None
 https://player.newmodelradio.sk
-#EXTINF:-1 tvg-id="536506" tvg-name="Radio Pyramida" tvg-logo="SK_Radio_Pyramida.png" tvg-country="SK" group-title="radio" radio="true", Radio Pyramida
+#EXTINF:-1 tvg-id="536506" tvg-name="Radio Pyramida" tvg-logo="SK_Radio_Pyramida.png" tvg-country="SK" group-title="radio" radio="true", Radio Pyramida mp3 128
 https://icecast.stv.livebox.sk/klasika_128.mp3
-#EXTINF:-1 tvg-id="630712" tvg-name="Rádio Rebeca" tvg-logo="SK_Radio_Rebeca.png" tvg-country="SK" group-title="radio" radio="true", Rádio Rebeca
+#EXTINF:-1 tvg-id="630712" tvg-name="Rádio Rebeca" tvg-logo="SK_Radio_Rebeca.png" tvg-country="SK" group-title="radio" radio="true", Rádio Rebeca 1 128
 https://mpc2.mediacp.eu:8200/rebecaweb
-#EXTINF:-1 tvg-id="55390" tvg-name="Rádio Roma" tvg-logo="SK_Radio_Roma.png" tvg-country="SK" group-title="radio" radio="true", Rádio Roma
+#EXTINF:-1 tvg-id="55390" tvg-name="Rádio Roma" tvg-logo="SK_Radio_Roma.png" tvg-country="SK" group-title="radio" radio="true", Rádio Roma mp3 192
 https://mpc2.mediacp.eu:8200/roma_stream.mp3
-#EXTINF:-1 tvg-id="310747" tvg-name="Rádio 9" tvg-logo="SK_Radio_9.png" tvg-country="SK" group-title="radio" radio="true", Rádio 9
+#EXTINF:-1 tvg-id="310747" tvg-name="Rádio 9" tvg-logo="SK_Radio_9.png" tvg-country="SK" group-title="radio" radio="true", Rádio 9 mp3 128
 https://147.232.191.167:8000/high.mp3
-#EXTINF:-1 tvg-id="94890" tvg-name="Beta Rádio - CS Pop" tvg-logo="SK_Beta_Radio_CS_Pop.png" tvg-country="SK" group-title="radio" radio="true", Beta Rádio - CS Pop
+#EXTINF:-1 tvg-id="94890" tvg-name="Beta Rádio - CS Pop" tvg-logo="SK_Beta_Radio_CS_Pop.png" tvg-country="SK" group-title="radio" radio="true", Beta Rádio - CS Pop mp3 128
 https://109.71.67.102:8000/beta_cspop.mp3
-#EXTINF:-1 tvg-id="591666" tvg-name="Beta Rádio - Hity 80s 90s" tvg-logo="SK_Beta_Radio_Hity_80s_90s.png" tvg-country="SK" group-title="radio" radio="true", Beta Rádio - Hity 80s 90s
+#EXTINF:-1 tvg-id="591666" tvg-name="Beta Rádio - Hity 80s 90s" tvg-logo="SK_Beta_Radio_Hity_80s_90s.png" tvg-country="SK" group-title="radio" radio="true", Beta Rádio - Hity 80s 90s mp3 128
 https://109.71.67.102:8000/beta_80a90.mp3
-#EXTINF:-1 tvg-id="94889" tvg-name="Beta Rádio - Jubilanti" tvg-logo="SK_Beta_Radio_Jubilanti.png" tvg-country="SK" group-title="radio" radio="true", Beta Rádio - Jubilanti
+#EXTINF:-1 tvg-id="94889" tvg-name="Beta Rádio - Jubilanti" tvg-logo="SK_Beta_Radio_Jubilanti.png" tvg-country="SK" group-title="radio" radio="true", Beta Rádio - Jubilanti mp3 128
 https://109.71.67.102:8000/beta_jubilanti.mp3
-#EXTINF:-1 tvg-id="901516" tvg-name="Beta Radio Live" tvg-logo="SK_Beta_Radio_Live.png" tvg-country="SK" group-title="radio" radio="true", Beta Radio Live
+#EXTINF:-1 tvg-id="901516" tvg-name="Beta Radio Live" tvg-logo="SK_Beta_Radio_Live.png" tvg-country="SK" group-title="radio" radio="true", Beta Radio Live mp3 128
 https://icecast2.radionet.sk/betassl.mp3

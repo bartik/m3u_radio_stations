@@ -347,7 +347,7 @@ def write_station_extm3u(f, st, fn):
 def write_station_iptv(f, st, fn):
     for entry in st.streams:
         title = st.title or st.fvb
-        f.write(f'#EXTINF:-1 tvg-id="{st.fvb}" tvg-name="{title} {entry.format} {entry.bitrate}" tvg-logo="{fn}.png" tvg-country="{st.country_code}" group-title="radio" radio="true", {title}\n')
+        f.write(f'#EXTINF:-1 tvg-id="{st.fvb}" tvg-name="{title}" tvg-logo="{fn}.png" tvg-country="{st.country_code}" group-title="radio" radio="true", {title} {entry.format} {entry.bitrate}\n')
         f.write(entry.normalized_url() + "\n")
 
 

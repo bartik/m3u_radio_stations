@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="402593" tvg-name="MBC Munhwa Bangsong FM 4U" tvg-logo="KPOP_MBC_Munhwa_Bangsong_FM_4U.png" tvg-country="KR" group-title="radio" radio="true", MBC Munhwa Bangsong FM 4U None None
+https://mbccb.co.kr/www3/onair/fm.htm
+#EXTINF:-1 tvg-id="402593" tvg-name="MBC Munhwa Bangsong FM 4U" tvg-logo="KPOP_MBC_Munhwa_Bangsong_FM_4U.png" tvg-country="KR" group-title="radio" radio="true", MBC Munhwa Bangsong FM 4U 2 40
+https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8
+#EXTINF:-1 tvg-id="402593" tvg-name="MBC Munhwa Bangsong FM 4U" tvg-logo="KPOP_MBC_Munhwa_Bangsong_FM_4U.png" tvg-country="KR" group-title="radio" radio="true", MBC Munhwa Bangsong FM 4U 1 128
+https://211.33.246.4:32954/radio_fm/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="39337" tvg-name="0N - K-Pop" tvg-logo="KPOP_0N_K_Pop.png" tvg-country="DE" group-title="radio" radio="true", 0N - K-Pop 1 64
+https://0n-kpop.radionetz.de/0n-kpop.aac
+#EXTINF:-1 tvg-id="39337" tvg-name="0N - K-Pop" tvg-logo="KPOP_0N_K_Pop.png" tvg-country="DE" group-title="radio" radio="true", 0N - K-Pop mp3 128
+https://0n-kpop.radionetz.de/0n-kpop.mp3
+#EXTINF:-1 tvg-id="255130" tvg-name="101.ru - K-pop" tvg-logo="KPOP_101_ru_K_pop.png" tvg-country="RU" group-title="radio" radio="true", 101.ru - K-pop 3 64
+https://srv01.gpmradio.ru/stream/pro/aac/64/323
+#EXTINF:-1 tvg-id="71756" tvg-name="Radio Caprice - K-Pop" tvg-logo="KPOP_Radio_Caprice_K_Pop.png" tvg-country="RU" group-title="radio" radio="true", Radio Caprice - K-Pop 1 48
+https://ip-79-111-119-111.bb.netbynet.ru:8002/kpop
+#EXTINF:-1 tvg-id="71756" tvg-name="Radio Caprice - K-Pop" tvg-logo="KPOP_Radio_Caprice_K_Pop.png" tvg-country="RU" group-title="radio" radio="true", Radio Caprice - K-Pop 1 320
+https://ip-79-111-119-111.bb.netbynet.ru:9097/;
+#EXTINF:-1 tvg-id="71756" tvg-name="Radio Caprice - K-Pop" tvg-logo="KPOP_Radio_Caprice_K_Pop.png" tvg-country="RU" group-title="radio" radio="true", Radio Caprice - K-Pop 1 320
+https://ip-79-111-119-111.bb.netbynet.ru:8000/kpop
+#EXTINF:-1 tvg-id="883465" tvg-name="Radio Caprice - Kpop" tvg-logo="KPOP_Radio_Caprice_Kpop.png" tvg-country="RU" group-title="radio" radio="true", Radio Caprice - Kpop 1 320
+https://ip-79-111-119-111.bb.netbynet.ru:8004/kpop
+#EXTINF:-1 tvg-id="17495" tvg-name="Delta Radio - K-pop" tvg-logo="KPOP_Delta_Radio_K_pop.png" tvg-country="DE" group-title="radio" radio="true", Delta Radio - K-pop mp3 192
+https://streams.deltaradio.de/kpop/mp3-192
+#EXTINF:-1 tvg-id="919334" tvg-name="Hana Pop" tvg-logo="KPOP_Hana_Pop.png" tvg-country="CO" group-title="radio" radio="true", Hana Pop 1 128
+https://radio35.virtualtronics.com:20040/;
+#EXTINF:-1 tvg-id="919334" tvg-name="Hana Pop" tvg-logo="KPOP_Hana_Pop.png" tvg-country="CO" group-title="radio" radio="true", Hana Pop 1 128
+https://radio35.virtualtronics.com/proxy/bamm?mp=/stream
+#EXTINF:-1 tvg-id="24671" tvg-name="Hotmix - K-Pop" tvg-logo="KPOP_Hotmix_K_Pop.png" tvg-country="FR" group-title="radio" radio="true", Hotmix - K-Pop mp3 128
+https://streaming.hotmixradio.fr/hotmix-k-pop-en-aac
+#EXTINF:-1 tvg-id="24671" tvg-name="Hotmix - K-Pop" tvg-logo="KPOP_Hotmix_K_Pop.png" tvg-country="FR" group-title="radio" radio="true", Hotmix - K-Pop mp3 128
+https://streaming.hotmixradio.fr/hotmix-k-pop-en-mp3
+#EXTINF:-1 tvg-id="24671" tvg-name="Hotmix - K-Pop" tvg-logo="KPOP_Hotmix_K_Pop.png" tvg-country="FR" group-title="radio" radio="true", Hotmix - K-Pop mp3 320
+https://streaming.hotmixradio.fr/hotmix-k-pop-en-pre
+#EXTINF:-1 tvg-id="150005" tvg-name="K-Pop Hits" tvg-logo="KPOP_K_Pop_Hits.png" tvg-country="US" group-title="radio" radio="true", K-Pop Hits mp3 128
+https://stream.laut.fm/kpophits
+#EXTINF:-1 tvg-id="150102" tvg-name="K-World" tvg-logo="KPOP_K_World.png" tvg-country="DE" group-title="radio" radio="true", K-World mp3 128
+https://stream.laut.fm/k-world
+#EXTINF:-1 tvg-id="902005" tvg-name="Kpop Radio" tvg-logo="KPOP_Kpop_Radio.png" tvg-country="US" group-title="radio" radio="true", Kpop Radio mp3 160
+https://ice-1.streamhoster.com/lv_kpophrusa--broadcast1
+#EXTINF:-1 tvg-id="902005" tvg-name="Kpop Radio" tvg-logo="KPOP_Kpop_Radio.png" tvg-country="US" group-title="radio" radio="true", Kpop Radio mp3 160
+https://ico-1.streamhoster.com/lv_kpophrusa--broadcast1
+#EXTINF:-1 tvg-id="864077" tvg-name="Kpop Replay" tvg-logo="KPOP_Kpop_Replay.png" tvg-country="CL" group-title="radio" radio="true", Kpop Replay mp3 128
+https://cast6.asurahosting.com/proxy/kpopreplay/stream
+#EXTINF:-1 tvg-id="40144" tvg-name="Kpop Zone" tvg-logo="KPOP_Kpop_Zone.png" tvg-country="IT" group-title="radio" radio="true", Kpop Zone mp3 192
+https://stream.musicalfactory.it:8030/radio.mp3
+#EXTINF:-1 tvg-id="40910" tvg-name="Musical Factory - Kpop Zone" tvg-logo="KPOP_Musical_Factory_Kpop_Zone.png" tvg-country="IT" group-title="radio" radio="true", Musical Factory - Kpop Zone None None
+https://www.musicalfactory.it/webradio
+#EXTINF:-1 tvg-id="307473" tvg-name="(K-Pop)" tvg-logo="KPOP_K_Pop.png" tvg-country="KR" group-title="radio" radio="true", (K-Pop) mp3 256
+https://listen.moe/kpop/fallback
+#EXTINF:-1 tvg-id="255261" tvg-name="101.ru - K-pop" tvg-logo="KPOP_101_ru_K_pop.png" tvg-country="RU" group-title="radio" radio="true", 101.ru - K-pop 3 64
+https://srv01.gpmradio.ru/stream/pro/aac/64/472
+#EXTINF:-1 tvg-id="364262" tvg-name="Aim Radio 2 by Aim KFM" tvg-logo="KPOP_Aim_Radio_2_by_Aim_KFM.png" tvg-country="ES" group-title="radio" radio="true", Aim Radio 2 by Aim KFM None None
+https://aimradio.org
+#EXTINF:-1 tvg-id="102776" tvg-name="Allzic - K-Pop" tvg-logo="KPOP_Allzic_K_Pop.png" tvg-country="FR" group-title="radio" radio="true", Allzic - K-Pop 1 64
+https://allzic63kpop.ice.infomaniak.ch/allzic63.aac
+#EXTINF:-1 tvg-id="163775" tvg-name="Conexion Girls Groups" tvg-logo="KPOP_Conexion_Girls_Groups.png" tvg-country="DE" group-title="radio" radio="true", Conexion Girls Groups mp3 128
+https://stream.laut.fm/conexiongirlsgroups
+#EXTINF:-1 tvg-id="308224" tvg-name="Conexion Kpop" tvg-logo="KPOP_Conexion_Kpop.png" tvg-country="PE" group-title="radio" radio="true", Conexion Kpop None None
+https://conexionkpop.com
+#EXTINF:-1 tvg-id="309389" tvg-name="DFM - K-Pop" tvg-logo="KPOP_DFM_K_Pop.png" tvg-country="RU" group-title="radio" radio="true", DFM - K-Pop 1 96
+https://rusradio.hostingradio.ru/kpop96.aacp
+#EXTINF:-1 tvg-id="308237" tvg-name="Generacion Kpop" tvg-logo="KPOP_Generacion_Kpop.png" tvg-country="PE" group-title="radio" radio="true", Generacion Kpop 1 64
+https://stream9.mexiserver.com:8242/stream
+#EXTINF:-1 tvg-id="308237" tvg-name="Generacion Kpop" tvg-logo="KPOP_Generacion_Kpop.png" tvg-country="PE" group-title="radio" radio="true", Generacion Kpop 1 64
+https://stream9.mexiserver.com:7122/stream
+#EXTINF:-1 tvg-id="891395" tvg-name="Generacion Kpop Radio" tvg-logo="KPOP_Generacion_Kpop_Radio.png" tvg-country="None" group-title="radio" radio="true", Generacion Kpop Radio 1 64
+https://stream9.mexiserver.com:7122/;
+#EXTINF:-1 tvg-id="891395" tvg-name="Generacion Kpop Radio" tvg-logo="KPOP_Generacion_Kpop_Radio.png" tvg-country="None" group-title="radio" radio="true", Generacion Kpop Radio 1 64
+https://stream9.mexiserver.com:8242/;
+#EXTINF:-1 tvg-id="150067" tvg-name="Juka Kpop" tvg-logo="KPOP_Juka_Kpop.png" tvg-country="DE" group-title="radio" radio="true", Juka Kpop mp3 128
+https://stream.laut.fm/juka-kpop
+#EXTINF:-1 tvg-id="356492" tvg-name="Rádio K" tvg-logo="KPOP_Radio_K.png" tvg-country="BR" group-title="radio" radio="true", Rádio K 1 128
+https://ec5.yesstreaming.net:1430/stream
+#EXTINF:-1 tvg-id="373522" tvg-name="K-Drama OSTs Radio" tvg-logo="KPOP_K_Drama_OSTs_Radio.png" tvg-country="PH" group-title="radio" radio="true", K-Drama OSTs Radio 1 64
+https://s67.radiolize.com/radio/8130/radio.mp3
+#EXTINF:-1 tvg-id="150263" tvg-name="K-Pop 4 You" tvg-logo="KPOP_K_Pop_4_You.png" tvg-country="DE" group-title="radio" radio="true", K-Pop 4 You mp3 128
+https://stream.laut.fm/kpop4you
+#EXTINF:-1 tvg-id="150469" tvg-name="Radio Kpop" tvg-logo="KPOP_Radio_Kpop.png" tvg-country="DE" group-title="radio" radio="true", Radio Kpop mp3 128
+https://stream.laut.fm/radiokpop
+#EXTINF:-1 tvg-id="307474" tvg-name="Kpop" tvg-logo="KPOP_Kpop.png" tvg-country="KR" group-title="radio" radio="true", Kpop vor 256
+https://listen.moe/kpop/stream
+#EXTINF:-1 tvg-id="141153" tvg-name="NRJ - K-POP" tvg-logo="KPOP_NRJ_K_POP.png" tvg-country="FR" group-title="radio" radio="true", NRJ - K-POP mp3 128
+https://streaming.nrjaudio.fm/ouhs4wapu6pb
+#EXTINF:-1 tvg-id="373017" tvg-name="Radio Power Kpop" tvg-logo="KPOP_Radio_Power_Kpop.png" tvg-country="PE" group-title="radio" radio="true", Radio Power Kpop mp3 128
+https://stream.zeno.fm/ftc8ugluevmvv
+#EXTINF:-1 tvg-id="103232" tvg-name="Rain FM" tvg-logo="KPOP_Rain_FM.png" tvg-country="US" group-title="radio" radio="true", Rain FM mp3 192
+https://streaming.live365.com/a86400
+#EXTINF:-1 tvg-id="304327" tvg-name="Reyfm - kpop" tvg-logo="KPOP_Reyfm_kpop.png" tvg-country="DE" group-title="radio" radio="true", Reyfm - kpop mp3 320
+https://reyfm-stream18.radiohost.de/reyfm-original_mp3-320
+#EXTINF:-1 tvg-id="350660" tvg-name="Vega Radio" tvg-logo="KPOP_Vega_Radio.png" tvg-country="AR" group-title="radio" radio="true", Vega Radio None None
+https://vegaradio.com
+#EXTINF:-1 tvg-id="170503" tvg-name="World Music Radio - K Pop" tvg-logo="KPOP_World_Music_Radio_K_Pop.png" tvg-country="AE" group-title="radio" radio="true", World Music Radio - K Pop mp3 128
+https://streaming.exclusive.radio/er/kpop/icecast.audio
+#EXTINF:-1 tvg-id="359806" tvg-name="Zeno FM - Kpop-Dream Radio" tvg-logo="KPOP_Zeno_FM_Kpop_Dream_Radio.png" tvg-country="CL" group-title="radio" radio="true", Zeno FM - Kpop-Dream Radio mp3 128
+https://stream.zeno.fm/ntcve0zsymruv
+#EXTINF:-1 tvg-id="153878" tvg-name="Anime FM" tvg-logo="KPOP_Anime_FM.png" tvg-country="DE" group-title="radio" radio="true", Anime FM mp3 128
+https://stream.laut.fm/animefm
+#EXTINF:-1 tvg-id="155179" tvg-name="Leon" tvg-logo="KPOP_Leon.png" tvg-country="CH" group-title="radio" radio="true", Leon mp3 128
+https://stream.laut.fm/leon
+#EXTINF:-1 tvg-id="377910" tvg-name="Back in the day cafe" tvg-logo="KPOP_Back_in_the_day_cafe.png" tvg-country="US" group-title="radio" radio="true", Back in the day cafe None None
+https://backintheday-cafe.blogspot.com
+#EXTINF:-1 tvg-id="157054" tvg-name="Freecall" tvg-logo="KPOP_Freecall.png" tvg-country="DE" group-title="radio" radio="true", Freecall mp3 128
+https://stream.laut.fm/freecall
+#EXTINF:-1 tvg-id="165437" tvg-name="Inpop" tvg-logo="KPOP_Inpop.png" tvg-country="DE" group-title="radio" radio="true", Inpop mp3 128
+https://stream.laut.fm/inpop
+#EXTINF:-1 tvg-id="152045" tvg-name="K-Pop Love" tvg-logo="KPOP_K_Pop_Love.png" tvg-country="DE" group-title="radio" radio="true", K-Pop Love mp3 128
+https://stream.laut.fm/kpop-love
+#EXTINF:-1 tvg-id="372788" tvg-name="Kodama Station" tvg-logo="KPOP_Kodama_Station.png" tvg-country="PE" group-title="radio" radio="true", Kodama Station mp3 128
+https://cast.kodamastation.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-id="164894" tvg-name="Latamkpop" tvg-logo="KPOP_Latamkpop.png" tvg-country="PE" group-title="radio" radio="true", Latamkpop mp3 128
+https://stream.laut.fm/latamkpop
+#EXTINF:-1 tvg-id="156752" tvg-name="Montastic FM" tvg-logo="KPOP_Montastic_FM.png" tvg-country="DE" group-title="radio" radio="true", Montastic FM mp3 128
+https://stream.laut.fm/montasticfm
+#EXTINF:-1 tvg-id="157092" tvg-name="Swag" tvg-logo="KPOP_Swag.png" tvg-country="DE" group-title="radio" radio="true", Swag mp3 128
+https://stream.laut.fm/swag
+#EXTINF:-1 tvg-id="371210" tvg-name="Telehit Música" tvg-logo="KPOP_Telehit_Musica.png" tvg-country="MX" group-title="radio" radio="true", Telehit Música mp3 128
+https://stream.zeno.fm/aubnemoe4cjtv
+#EXTINF:-1 tvg-id="358861" tvg-name="Zeno FM - Mix 96 HD4" tvg-logo="KPOP_Zeno_FM_Mix_96_HD4.png" tvg-country="CA" group-title="radio" radio="true", Zeno FM - Mix 96 HD4 mp3 128
+https://stream.zeno.fm/n74rcrx82k0uv
+#EXTINF:-1 tvg-id="372977" tvg-name="Radio Zero" tvg-logo="KPOP_Radio_Zero.png" tvg-country="PE" group-title="radio" radio="true", Radio Zero mp3 128
+https://stream.zeno.fm/etuhm2ry72quv
+#EXTINF:-1 tvg-id="48680" tvg-name="go Xuan" tvg-logo="KPOP_go_Xuan.png" tvg-country="MY" group-title="radio" radio="true", go Xuan 2 48
+https://stream.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8
+#EXTINF:-1 tvg-id="150564" tvg-name="Haus Radio" tvg-logo="KPOP_Haus_Radio.png" tvg-country="DE" group-title="radio" radio="true", Haus Radio mp3 128
+https://stream.laut.fm/hausradio
